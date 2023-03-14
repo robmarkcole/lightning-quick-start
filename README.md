@@ -1,4 +1,5 @@
 # Lightning Quick Start App
+Simple MNIST train and deploy example
 
 ### Install Lightning
 
